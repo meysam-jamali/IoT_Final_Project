@@ -1,0 +1,2 @@
+Ubidots Username: smartshoes
+Ubidots Password: mars23435676

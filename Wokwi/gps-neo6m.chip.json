@@ -1,0 +1,11 @@
+{
+  "name": "gps-neo6m",
+  "author": "Jamali-Rezaei Sepehr",
+  "pins": [
+    "VCC",
+    "GND",
+    "RX",
+    "TX"
+  ],
+  "controls": []
+}
